@@ -10,6 +10,6 @@ public class MyFirstProgram {
         System.out.println(2/2);
         System.out.println(1/2);
         System.out.println("2"+"2");
-        
+
     }
 }
